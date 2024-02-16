@@ -30,3 +30,4 @@ nslookup www.google.com.co
 
 echo "-----------------"
 
+

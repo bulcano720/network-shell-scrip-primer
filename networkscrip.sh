@@ -18,3 +18,8 @@ echo "2 Displaying Network Interfaces and Ip Addresses"
 ipconfig
 echo "-------------------------"
 
+#Display routing table 
+
+echo "3. Displaying Routing Table"
+netstat -rm 
+echo "--------------------------"

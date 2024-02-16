@@ -10,5 +10,5 @@ echo "1. chechinh Internet Connectivity"
 
 ping -c 4 www.google.com
 
-echo "----------------------" 
+echo "-----------------------" 
 

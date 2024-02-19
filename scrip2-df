@@ -20,6 +20,14 @@ winver
 echo "rick bailando  meme como los demas "
 
 curl ascii.live/rick
+
+# Mostrar la configuración de la red
+echo "Configuración de red:"
+ipconfig
+
+# Mostrar información del espacio en el disco
+echo "Espacio en disco:"
+wmic logicaldisk get size,freespace,caption
  
 
 

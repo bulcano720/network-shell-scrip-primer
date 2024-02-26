@@ -27,14 +27,14 @@ height="auto" border-radius="75"/>
 
 # [NETWORK SCRIP DOCUMENTATION] <a name="about-project"></a> 
 
-**[Network Scrip Documentation]**  Este es mi documentacion para el SENA sobre  los comandos utilizados anteriormente.
+ Este es mi documentacion para el SENA sobre  los comandos utilizados anteriormente.
 
 
- # 👩‍💻👨‍💻💻 PROJECTO CONSTRUIDO CON LAS SIGUIENTES HERRAMIENTAS
+ # 👩‍💻👨‍💻💻 PROYECTO CONSTRUIDO CON LAS SIGUIENTES HERRAMIENTAS
  </a>
 
 <p>
-este projecto utilizamos las siguientes herramientas:
+este proyecto utilizamos las siguientes herramientas:
 HTML MARKDOWN AND SHELLSCRIPT, GIT ,GITHUB
 </p>
 
@@ -74,11 +74,11 @@ HTML MARKDOWN AND SHELLSCRIPT, GIT ,GITHUB
 
 ## 💻 EMPEZANDO <a name="Estoy empezando"></a>
 
-Aqui van a encontrar una lista de comandos que utilice en miclase para crear mi script y ramas 
+Aqui van a encontrar una lista de comandos que utilice en mi clase para crear mi script y ramas 
 
 ### Requisitos Para Realizar Un Script  
 
-para poder realizar un scrip necesitamos estas aplicaciones y pagina web
+para poder realizar un scrip necesitamos estas aplicaciones y pagina web 
 
 - [VS Code]
 - [Git Bash and GitHub]
@@ -145,14 +145,14 @@ visualizar donde esta la llave para poner en git hub (cuando se genero les da un
 ```sh
 Comando: cat /c/users/usuario/.ssh/id_ed25519.pub
 ```
-establecer coneccion con el perfil de git hub
+establecer conexion con el perfil de git hub
 
 ```sh
 Comando: git remote add origin + direccion git hub http o ssh
 
 ```
 
-visualizar que tipo de coneccion esta si por ssh o https
+visualizar que tipo de conexion esta si por ssh o https
 
 ```sh
 Comando: git remote -v
@@ -247,7 +247,7 @@ borrar una linea del comando lo mas reciente del contenido del scrip
 Comando: git reset --hard HEAD~1
 
 ```
-mostar el tipo de archivo que parametso tiene
+mostar el tipo de archivo que parametros tiene
 
 ```sh
 
@@ -327,8 +327,6 @@ Comando: git puhs origin master --tags
 
 ```
 
-
-
 ## 👥 Autor <a name="authors"></a>
 
 Daniel Escobar
@@ -338,7 +336,7 @@ Daniel Escobar
  - GitHub: [@bulcano720](https://github.com/bulcano720)
 
 
-## 👏 exprexion de gratitud <a name="exprexion de gratitud"></a>
+## 👏 exprecion de gratitud <a name="exprexion de gratitud"></a>
 
 Me gustaría agradecer a mis compañeros de equipo de aprendizaje y al Sena. y a mi instructor 
 

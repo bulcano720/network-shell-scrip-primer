@@ -292,6 +292,22 @@ Comando: git merge + nombre de la rama
 
 ```
 
+### comandos  tag
+
+visualizar los tag realizados
+
+```sh
+
+Comando: git tag
+
+```
+subir un archivo tag al master
+
+```sh
+
+Comando: git puhs origin master --tags
+
+```
 
 
 
@@ -304,7 +320,7 @@ Daniel Escobar
  - GitHub: [@bulcano720](https://github.com/bulcano720)
 
 
-## 👏 exprexion de gratirud <a name="exprexion de gratitud"></a>
+## 👏 exprexion de gratitud <a name="exprexion de gratitud"></a>
 
-Me gustaría agradecer a mis compañeros de equipo de aprendizaje y al Sena.
+Me gustaría agradecer a mis compañeros de equipo de aprendizaje y al Sena. y a mi instructor 
 

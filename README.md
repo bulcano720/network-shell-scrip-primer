@@ -42,6 +42,14 @@ HTML MARKDOWN AND SHELLSCRIPT, GIT ,GITHUB
 <li> COMANDOS </li>
 
 <details>
+<summary> ACTIVIDAD1 </summary>
+<ul>
+<li><a href="https://github.com/bulcano720/network-shell-scrip-primer/blob/master/actividad1%20pantallaso.pdf">ACTIVIDAD1T</a>
+
+ </details>
+
+
+<details>
 <summary> GIT </summary>
 <ul>
 <li><a href="https://git-scm.com/downloads">GIT</a>
@@ -323,4 +331,6 @@ Daniel Escobar
 ## 👏 exprexion de gratitud <a name="exprexion de gratitud"></a>
 
 Me gustaría agradecer a mis compañeros de equipo de aprendizaje y al Sena. y a mi instructor 
+
+
 

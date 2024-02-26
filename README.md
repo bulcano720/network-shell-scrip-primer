@@ -309,6 +309,16 @@ visualizar los tag realizados
 Comando: git tag
 
 ```
+
+crear un tag para poder subirlo
+
+```sh
+
+Comando: git tag + Nombre 
+example: git tag v2.0
+
+```
+
 subir un archivo tag al master
 
 ```sh
@@ -332,5 +342,10 @@ Daniel Escobar
 
 Me gustaría agradecer a mis compañeros de equipo de aprendizaje y al Sena. y a mi instructor 
 
+<center>
 
+<img src="despedida.jpg.jpg" alt="despedida.jpg"  width="300" 
+height="auto" border-radius="78"/>
+
+</center>
 

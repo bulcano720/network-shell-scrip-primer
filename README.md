@@ -242,11 +242,51 @@ Comando: git clean -f
 ```
 borrar una linea del comando lo mas reciente del contenido del scrip
 
+
 ```sh
 
 Comando: git reset --hard HEAD~1
 
 ```
+
+comando que sirve para ver el registro de donde han estado todas las cabezas de tus ramas mientras trabajas para encontrar commits
+
+```sh
+
+Comando: git log
+
+```
+
+especificamente para trabajar con esta parte de restauración de archivos o proyectos en un punto anterior
+
+
+```sh
+
+Comando: git restore + nombre del archivo 
+```
+
+deshacer el último commit, manteniendo los cambios en el área de preparación 
+
+```sh
+
+Comando: git reset --soft HEAD~1
+
+```
+
+ deshace los cambios introducidos por el commit con el hash abc123 que se ven en git log
+
+```sh
+
+Comando: git revert + code hash
+```
+
+ resetear al commit con un hash específico 
+
+```sh
+
+Comando: git reset --hard + code hash
+```
+
 mostar el tipo de archivo que parametros tiene
 
 ```sh
@@ -327,6 +367,32 @@ Comando: git puhs origin master --tags
 
 ```
 
+## otros comandos xD
+
+Sirve para copiar todo los repositorios local 
+
+```sh
+
+Comando: git fetch + nombre del repositorio
+
+```
+
+envia todos los archivos que esta en directorio de trabajo a stage area 
+
+```sh
+
+Comando: git add .
+
+```
+
+
+```sh
+
+Comando: git puhs origin master --tags
+
+```
+
+
 ## 👥 Autor <a name="authors"></a>
 
 Daniel Escobar
@@ -335,10 +401,23 @@ Daniel Escobar
 
  - GitHub: [@bulcano720](https://github.com/bulcano720)
 
+## CONTRIBUCIONES
+cualquier tipo de sugerencias, comentarios o recomendaciones  son totalmente bienvenidos.
+
+## ⭐​muestra tu apoyo 
+si te gusto este tipo de contenido porfavor comenta y da le una estrella compa (👍 ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ )👍 
+
+
+​
+
+
+
 
 ## 👏 exprecion de gratitud <a name="exprexion de gratitud"></a>
 
-Me gustaría agradecer a mis compañeros de equipo de aprendizaje y al Sena. y a mi instructor 
+Me gustaría agradecer a mis compañeros de equipo de aprendizaje y al SENA. que me apoyaron y me resolvieron mis dudas en este proceso de aprendizaje especialmente a mi instructor jeysson [@alyconr](https://github.com/alyconr) y ami colaborador daniel jara.
+[@danieljr95](https://github.com/danieljr95)
+
 
 <center>
 
@@ -347,3 +426,8 @@ height="auto" border-radius="78"/>
 
 </center>
 
+## 📃 License <a name="license"></a>
+
+This Project is [MIT](./LICENSE.md) licensed
+
+<p align="right"><a href="#readme-top">Back to top</a></p>
